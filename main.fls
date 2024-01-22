@@ -1,8 +1,8 @@
-PWD /Users/sebastianosanson/Downloads/LaTeXTemplates_developer-cv_v1
+PWD /Users/sebastianosanson/Documents/CV
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/sebastianosanson/Downloads/LaTeXTemplates_developer-cv_v1/main.tex
+INPUT /Users/sebastianosanson/Documents/CV/main.tex
 OUTPUT main.log
 INPUT ./developercv.cls
 INPUT ./developercv.cls
@@ -907,11 +907,6 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ectt0900.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/raleway/TS1Raleway-TLF.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/raleway/TS1Raleway-TLF.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/raleway/TS1Raleway-TLF.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/raleway/TS1Raleway-TLF.fd
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Regular-tlf-ts1.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/impallari/raleway/Raleway-Bold-tlf-t1.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Bold-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -927,9 +922,6 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Reg
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/impallari/raleway/Raleway-Bold-tlf-t1.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Bold-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/impallari/raleway/Raleway-Regular-tlf-ts1.vf
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Regular-tlf-ts1--base.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/raleway/a_2bcjq6.enc
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
