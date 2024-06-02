@@ -902,6 +902,11 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/fontawesome/FontAwesom
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Bold-tlf-t1.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Regular-tlf-t1.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Bold-tlf-t1.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/raleway/TS1Raleway-TLF.fd
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/raleway/TS1Raleway-TLF.fd
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/raleway/TS1Raleway-TLF.fd
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/raleway/TS1Raleway-TLF.fd
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Regular-tlf-ts1.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
@@ -921,6 +926,9 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/impallari/raleway/Raleway-Regu
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Regular-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/impallari/raleway/Raleway-Bold-tlf-t1.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Bold-tlf-t1--base.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/impallari/raleway/Raleway-Regular-tlf-ts1.vf
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Regular-tlf-ts1--base.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/raleway/a_2bcjq6.enc
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
 INPUT main.aux
 INPUT ./main.out
